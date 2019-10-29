@@ -5,7 +5,7 @@ World cities in json format
 
 Populated places of the world (towns, cities) with a population of 500 or more, extracted from the GeoNames database dump. With ID (geonamesid), name, country (ISO alpha 2), admin1 (state/province), latitude, longitude, population. Names are extracted from GeoNames' "name" columns (which are probably the official name of the place used in English), no alternate names.
 
-Geonames feature codes used: PPL, PPLA*, PPLC. These are all populated places including capitals and administrative seats, but no sections/suburbs (PPLX), reference: http://www.geonames.org/export/codes.html
+Geonames feature codes used: PPL, PPLA(1-5), PPLC. These are populated places where people live and work, including capitals and administrative seats, but no sections/suburbs (PPLX), inofficial settlements or places that don't exist anymore (PPLH). Reference: http://www.geonames.org/export/codes.html
 
 Roughly 150K places.
 
