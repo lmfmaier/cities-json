@@ -13,13 +13,13 @@ Roughly 150K places.
 ```
 [
   {
-    "id": "3041563",
-    "name": "Andorra la Vella",
-    "country": "AD",
-    "admin1": "Andorra la Vella",
-    "lat": "42.5077900",
-    "lon": "1.5210900",
-    "pop": "20430"
+    "id": "5368361",
+    "name": "Los Angeles",
+    "country": "US",
+    "admin1": "California",
+    "lat": "34.0522300",
+    "lon": "-118.2436800",
+    "pop": "3971883"
   }
 ]
 ```
