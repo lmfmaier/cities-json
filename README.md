@@ -28,4 +28,5 @@ GeoNames Gazetteer extract files: http://download.geonames.org/export/dump/
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 License
+
 https://creativecommons.org/licenses/by/3.0/
